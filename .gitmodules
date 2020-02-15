@@ -1,0 +1,3 @@
+[submodule "oniontree"]
+	path = data/oniontree
+	url = https://github.com/onionltd/oniontree
